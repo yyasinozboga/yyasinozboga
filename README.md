@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/yasin-özboğa-98a820311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/yasin-özboğa-98a820311" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yasin-%C3%B6zbo%C4%9Fa-98a820311?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BYEyDWwMtR%2F%2B7D9IB4JVAGw%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/yasin-özboğa-98a820311" height="30" width="40" /></a>
 <a href="https://instagram.com/yyasinozboga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yyasinozboga" height="30" width="40" /></a>
 <a href="https://discord.gg/iamyasin00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="iamyasin00" height="30" width="40" /></a>
 </p>
