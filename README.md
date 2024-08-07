@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm @iamyyasin (Yasin Özboğa)</h1>
+<h1 align="center">Hi 👋, I'm @yyasinozboga (Yasin Özboğa)</h1>
 <h3 align="center">I have been actively involved in programming for more than two years. My passion for this field started before my high school education. My goal is to improve myself and improve what I have learned.</h3>
 
 - 📙 I’m currently studying on **high School**
@@ -14,8 +14,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/yasin-özboğa-98a820311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/yasin-özboğa-98a820311" height="30" width="40" /></a>
-<a href="https://instagram.com/imyyasin00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imyyasin00" height="30" width="40" /></a>
-<a href="https://discord.gg/iamyasin00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="iamyasin00" height="30" width="40" /></a>
+<a href="https://instagram.com/yyasinozboga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yyasinozboga" height="30" width="40" /></a>
+<a href="https://discord.gg/ysnozbg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ysnozbg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
