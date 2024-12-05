@@ -25,5 +25,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yyasinozboga&show_icons=true&locale=en" alt="yyasinozboga" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yyasinozboga&" alt="yyasinozboga" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yyasinozboga" alt="yyasinozboga" /></p>
 
